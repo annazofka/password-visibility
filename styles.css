@@ -1,0 +1,27 @@
+html {
+    display: table;
+    margin: auto;
+    background: rgb(242, 253, 255);
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1, p, div {
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+input {
+    margin-bottom: 1em;
+}
+
+[type="checkbox"] {
+    margin-bottom: 0;
+    margin-right: 0.25em;
+} 
